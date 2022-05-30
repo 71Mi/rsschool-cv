@@ -1,7 +1,9 @@
-###Olga Borisenko
-##student RS School
+### Olga Borisenko
+## student RS School
 ===
 **e-mail:** polza199227@gmail.com
-**phone%:** +375296779318
+**phone :** +375296779318
+===
+
 
   
