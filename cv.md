@@ -1,7 +1,9 @@
 ## Olga Borisenko
 # student RS School
 ![photo](https://github.com/71Mi/rsschool-cv/raw/gh-pages/photo.jpg)
+
 =======
+
 **e-mail:** polza199227@gmail.com
 
 **phone :** +375296779318
